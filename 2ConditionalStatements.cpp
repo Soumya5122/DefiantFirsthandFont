@@ -1,7 +1,18 @@
 #include<bits/stdc++.h>
 
 //if else
-//switch
+//switch 
+/*switch(x){
+  case 1:
+      cout<<;
+      break;
+  case 2:
+      cout<<;
+      break;
+  default:
+      cout<<;
+      break;
+}*/
 
 using namespace std;
 int main(){
